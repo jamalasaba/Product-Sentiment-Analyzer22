@@ -1,0 +1,24 @@
+PRODUCT SENTIMENT ANALYSIS REPORT
+============================================================
+
+Total products fetched: 20
+Total reviews scraped: 5
+Products successfully combined: 1
+
+SENTIMENT SUMMARY
+------------------------------------------------------------
+Positive reviews: 0
+Negative reviews: 1
+Neutral reviews: 0
+
+PRODUCT DETAILS
+------------------------------------------------------------
+
+Product: Mens Cotton Jacket
+Price: $55.99
+Category: men's clothing
+Rating: 4.7
+Review: The jacket is disappointing and the quality is poor.
+Sentiment: Negative
+Polarity: -0.5
+------------------------------------------------------------
